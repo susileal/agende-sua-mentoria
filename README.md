@@ -20,5 +20,8 @@ Este é um projeto que demonstra como criar um formulário em HTML e estilizá-l
 ## Instruções
 
 1. Clone este repositório em sua máquina local:
-2. Acesse a pasta crie-se-evento
+2. Acesse a pasta agende-sua-mentoria
 3. Abra o arquivo index.html no browser de sua preferência
+
+## Para visualizar
+1. Site publicado no Github Pages --> https://susileal.github.io/agende-sua-mentoria/
